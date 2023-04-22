@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Odemsloh
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Python
-
-<!---
-Odemsloh/Odemsloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I offer software development services in Python, C, C++, and C#, and have extensive experience in web design with HTML, CSS, JavaScript, and PHP, as well as in database design.
